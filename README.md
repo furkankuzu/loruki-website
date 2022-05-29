@@ -1,2 +1,2 @@
 # loruki-website
-A fully responsive website using HTML-CSS-Javascript
+A fully responsive website using HTML-CSS
